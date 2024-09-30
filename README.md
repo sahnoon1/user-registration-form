@@ -13,4 +13,5 @@ This is a user registration form for an application.
 - Terms Agreement
 
 ## Screenshot
-"C:\Users\HP\Desktop\User Registration Form.html"
+![User Registration Form Screenshot](screenshort.png)
+
